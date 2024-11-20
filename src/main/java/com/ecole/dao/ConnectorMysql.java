@@ -10,7 +10,7 @@ public class ConnectorMysql {
 // attributs de classe e type Connection
 	private Connection con = null;
 
-	private String url = "jdbc:mysql://localhost/gestion_ecole";
+	private String url = "jdbc:mysql://localhost/gestion_school";
 	private String user = "changez le nom de user";
 	private String password = "définez le mot de pass";
 
