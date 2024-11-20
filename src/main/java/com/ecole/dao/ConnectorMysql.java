@@ -11,8 +11,8 @@ public class ConnectorMysql {
 	private Connection con = null;
 
 	private String url = "jdbc:mysql://localhost/gestion_school";
-	private String user = "changez le nom de user";
-	private String password = "définez le mot de pass";
+	private String user = "root";
+	private String password = "root";
 
 	public ConnectorMysql() {
 
