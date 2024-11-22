@@ -12,7 +12,7 @@ public class ConnectorMysql {
 
 	private String url = "jdbc:mysql://localhost/gestion_school";
 	private String user = "root";
-	private String password = "définez le mot de pass";
+	private String password = "root";
 
 	public ConnectorMysql() {
 
