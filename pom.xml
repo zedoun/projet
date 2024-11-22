@@ -36,6 +36,11 @@
             <version>5.0.0</version>
             <scope>provided</scope>
         </dependency>
+        <dependency>
+        	<groupId>com.syriaquezedoun</groupId>
+        	<artifactId>projetSyriaqueZedoun</artifactId>
+        	<version>0.0.1-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
     <build>

@@ -1,4 +1,4 @@
-package com.etudiant.entityDao;
+package com.ecole.dao;
 
 import java.util.List;
 
